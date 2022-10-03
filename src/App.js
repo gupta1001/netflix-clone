@@ -12,11 +12,11 @@ import {
 function App() {
   return (
     <div className="app">
-      <Router>
-          <Route path="/">
+      {/* <Router>
+          <Route path="/"> */}
             <HomeScreen />
-          </Route>
-      </Router>
+          {/* </Route>
+       </Router> */}
     </div>
   );
 }
