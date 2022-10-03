@@ -4,7 +4,7 @@
 A Netflix React App with with authentication with Firebase API (Google Auth)
 
 
-Application Features and Functionality
+**Application Features and Functionality**
 * Sign-in screen with login/logout with **Google Authentication**
 * Netflix Homescreen with movie information fetched from TMDB API in Real time
 *  Netflix **Payments** with monthly recurring subscriptions
