@@ -2,6 +2,7 @@
 
 A Netflix React App with with authentication with Firebase API (Google Auth)
 
+<img width="1512" alt="Screenshot 2022-10-04 at 12 20 28 AM" src="https://user-images.githubusercontent.com/90515961/193656643-d3d1dbfb-6599-4501-ae15-3329b5a471a6.png">
 
 # Getting Started with Create React App and Redux
 
