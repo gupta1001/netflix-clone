@@ -1,14 +1,26 @@
+
 # Netflix-clone
 
 A Netflix React App with with authentication with Firebase API (Google Auth)
 
+
+Functionality of the application
+* Sign-in screen with login/logout with **Google Authentication**
+* Netflix Homescreen with movie information fetched from TMDB API in Real time
+*  Netflix **Payments** with monthly recurring subscriptions
+    * With **Stripe Payment Processor** latest extension
+* Deployed the apllication in GCP using Firebase
+
 <img width="1512" alt="Screenshot 2022-10-04 at 12 20 28 AM" src="https://user-images.githubusercontent.com/90515961/193656643-d3d1dbfb-6599-4501-ae15-3329b5a471a6.png">
 
-# Getting Started with Create React App and Redux
+# Getting Started with Netflix App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
+Install the project dependencies
+
+### `npm install`
 
 In the project directory, you can run:
 
